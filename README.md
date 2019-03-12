@@ -9,8 +9,8 @@ Charlas:
 
 Nuestras Redes:
 
-- twitter.com/py_patagonia
-- instagram.com/py_patagonia/
-- facebook.com/pypatagonia
+- http://twitter.com/py_patagonia
+- http://instagram.com/py_patagonia/
+- http://facebook.com/pypatagonia
 
 - Slack: http://cor.to/Gvmd
