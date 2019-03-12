@@ -6,6 +6,7 @@ Charlas:
 - "Estado sin estado": El camino de la programación funcional – Rodrigo René Cura.
 - "Scraping de imágenes en sitios web: y si hacemos un planetario?" – Pablo Toledo.
 - "Autenticación mediante tokens con pyjwt" – Luciano Alzugaray.
+- "Están lloviendo estrellas: un vistazo a Astropy" - Alexandra Trujillo.
 
 Nuestras Redes:
 
